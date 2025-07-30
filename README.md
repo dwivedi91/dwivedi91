@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Raushan+Kumar;Web+Developer+from+India;Let's+Build+Something+Awesome!" alt="Typing Intro" />
 
 <!-- Banner GIF -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Raushan+Kumar!;Web+Developer+%7C+B.Tech+Student+%7C+India;Learning+HTML%2C+CSS%2C+JS+%26+GitHub+%F0%9F%93%90" alt="Typing SVG" />
