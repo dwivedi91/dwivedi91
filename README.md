@@ -1,38 +1,66 @@
-<h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
-<h3 align="center">A passionate Web Developer & B.Tech Student from India</h3>
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Git/GitHub**
-
-- 👨‍💻 All of my projects are available at: [My GitHub Repositories](https://github.com/dwivedi91?tab=repositories)
-
-- 📫 How to reach me: **raushandu124@gmail.com**
-
-- 🚀 Goal: Become a full-stack developer & contribute to real-world open-source projects
+<!-- Banner GIF -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Raushan+Kumar!;Web+Developer+%7C+B.Tech+Student+%7C+India;Learning+HTML%2C+CSS%2C+JS+%26+GitHub+%F0%9F%93%90" alt="Typing SVG" />
 
 ---
 
-### 🛠️ Languages and Tools:
+<h2 align="center">💻 About Me</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+- 🎓 B.Tech (2nd Semester) Student  
+- 🌐 Passionate about **Frontend Web Development**  
+- ✍️ Currently learning: `HTML`, `CSS`, `JavaScript`, `Git`, `GitHub`  
+- 🛠️ Building: Personal Projects, Practice Repositories  
+- 📫 Reach me at: **raushandu124@gmail.com**  
+- 🎯 Goal: Become a Full Stack Developer  
+
+---
+
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dwivedi91&show_icons=true&theme=tokyonight" width="48%"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedi91&layout=compact&theme=tokyonight" width="48%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dwivedi91&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedi91&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<br><br>
+---
+
+<h2 align="center">📈 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwivedi91&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:raushandu124@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dwivedi91">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🚀 Learning Path</h2>
+
+```txt
+📌 HTML      - ✅ Done
+📌 CSS       - 🔄 In Progress
+📌python     - 🔄 In Progress
+📌 JavaScript - ⏳ Coming Soon
+📌 Git & GitHub - ✅ Beginner Level Done
+📌 Hosting with GitHub Pages - 🔜
 
 ---
 
